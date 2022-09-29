@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.profile{
+    border: 2px solid blue;
+    height: 280px ;
+}
+
